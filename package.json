@@ -1,0 +1,15 @@
+{
+  "name": "porag-webpack-starter",
+  "version": "1.0.0",
+  "description": "Project to build a simple yet powerful webpack boilerplate (with webpack 5 official guides) which can be used as a starting point for any project with webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md. Porag Sarkar",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.82.1",
+    "webpack-cli": "^5.1.1"
+  }
+}
